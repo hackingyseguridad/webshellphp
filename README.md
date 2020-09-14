@@ -29,4 +29,7 @@ PHP Shell :
  Webadmin Shell
  
  Wordpress Shell
+ 
+ 
+ <img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/webshellphp/blob/master/webshell.png">
 
