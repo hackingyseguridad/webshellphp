@@ -31,5 +31,5 @@ PHP Shell :
  Wordpress Shell
  
  
- <img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/webshellphp/blob/master/webshell.png">
+ <img style="float:left" alt="webshell php" src="https://github.com/hackingyseguridad/webshellphp/blob/master/webshell.png">
 
